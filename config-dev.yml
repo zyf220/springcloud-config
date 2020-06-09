@@ -1,2 +1,4 @@
 # www
 #魏书芳
+server:
+  port: 8001
